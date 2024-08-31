@@ -38,6 +38,6 @@ The dataset used in this dashboard is sourced from Maven Analytics. It contains 
 **Geographical Distribution:** Certain states show higher concentrations of complaints, indicating potential regional issues.<br>
 
 ## Tools & Technologies
-**Power BI:** Used for data visualization and dashboard creation.
+**Power BI:** Used for data visualization and dashboard creation.<br>
 **Power Query:** Utilized for data transformation and preparation.
 
