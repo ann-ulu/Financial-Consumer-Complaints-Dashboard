@@ -13,3 +13,6 @@ Complaints Submission Channel: A bar chart showing how complaints were submitted
 Company Response to Consumers: A line chart illustrating how the company responded to the complaints, whether they were closed with or without monetary relief. <br>
 
 ## Screenshots
+
+### page 1
+<img src="Dashboard Screenshots/page 1.PNG">
