@@ -22,3 +22,11 @@ The dashboard includes the following key features:
 
 ### Page 2
 <img src="Dashboard Screenshots/page 2.PNG">
+
+### Page 3
+<img src="Dashboard Screenshots/page 3.PNG">
+
+## How to Use
+**Explore live Dashboard:** Use the interactive filters and visualizations to explore the dataset. You can filter by product, year, and more to explore indepth. Use this link to intersct with the live dashbaord:  **[Click here to explore consumer complaints dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTQzNzNiZGUtNzEwNC00NjFhLWIyMWQtYTVmNzViZjI4ZmE2IiwidCI6IjJiYjUyNzlmLThkMTUtNDBlNy05OWUyLTJjYzIzMTg0YzE2NiIsImMiOjh9&disablecdnExpiration=1725164040)**
+
+
