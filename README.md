@@ -33,10 +33,11 @@ The dashboard includes the following key features:
 The dataset used in this dashboard is sourced from Maven Analytics. It contains information on consumer complaints related to various financial products and services provided by Bank of America.
 
 ## Key Insights
-**Complaint Trends:** The number of complaints has fluctuated over the years, with a noticeable spike in recent years.
-**Product Analysis:** The most complained-about products are savings/checking accounts, credit cards, credit reporting and mortgage services.
-**Geographical Distribution:** Certain states show higher concentrations of complaints, indicating potential regional issues.
+**Complaint Trends:** The number of complaints has fluctuated over the years, with a noticeable spike in recent years.<br>
+**Product Analysis:** The most complained-about products are savings/checking accounts, credit cards, credit reporting and mortgage services.<br>
+**Geographical Distribution:** Certain states show higher concentrations of complaints, indicating potential regional issues.<br>
 
 ## Tools & Technologies
 **Power BI:** Used for data visualization and dashboard creation.
+**Power Query:** Utilized for data transformation and preparation.
 
