@@ -27,10 +27,10 @@ The dashboard includes the following key features:
 <img src="Dashboard Screenshots/page 3.PNG">
 
 ## How to Use
-**Explore live Dashboard:** Use the interactive filters and visualizations to explore the dataset. You can filter by product, year, and more to explore indepth. Use this link to intersct with the live dashbaord:  **[Click here to explore consumer complaints dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTQzNzNiZGUtNzEwNC00NjFhLWIyMWQtYTVmNzViZjI4ZmE2IiwidCI6IjJiYjUyNzlmLThkMTUtNDBlNy05OWUyLTJjYzIzMTg0YzE2NiIsImMiOjh9&disablecdnExpiration=1725164040)**
+**Explore live Dashboard:** Use the interactive filters and visualizations to explore the dataset. You can filter by product, year, and more to explore indepth. Use this link to interact with the dashbaord:  **[Click here to explore consumer complaints dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTQzNzNiZGUtNzEwNC00NjFhLWIyMWQtYTVmNzViZjI4ZmE2IiwidCI6IjJiYjUyNzlmLThkMTUtNDBlNy05OWUyLTJjYzIzMTg0YzE2NiIsImMiOjh9&disablecdnExpiration=1725164040)**
 
 ## Dataset
-The dataset used in this dashboard is sourced from Maven Analytics. It contains information on consumer complaints related to various financial products and services provided by Bank of America.
+The dataset used in this dashboard is sourced from Maven Analytics. It contains information on consumer complaints related to various financial products and services provided by Bank of America. I have attached the dataset for your use.
 
 ## Key Insights
 **Complaint Trends:** The number of complaints has fluctuated over the years, with a noticeable spike in recent years.<br>
