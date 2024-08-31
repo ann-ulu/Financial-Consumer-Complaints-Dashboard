@@ -1,4 +1,4 @@
-# Financial-Consumer-Complaints-Dashboard
+# Financial-Consumer-Complaints-Dashboard📈
 This repository contains a Power BI dashboard designed to visualize consumer complaints related to financial products and services for Bank of America. The dashboard provides insights into complaint distribution by product and sub-product, geographical distribution of complaints, submission channels, and company responses over time.
 ## Dashboard Overview
 The dashboard includes the following key features:
@@ -29,4 +29,14 @@ The dashboard includes the following key features:
 ## How to Use
 **Explore live Dashboard:** Use the interactive filters and visualizations to explore the dataset. You can filter by product, year, and more to explore indepth. Use this link to intersct with the live dashbaord:  **[Click here to explore consumer complaints dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTQzNzNiZGUtNzEwNC00NjFhLWIyMWQtYTVmNzViZjI4ZmE2IiwidCI6IjJiYjUyNzlmLThkMTUtNDBlNy05OWUyLTJjYzIzMTg0YzE2NiIsImMiOjh9&disablecdnExpiration=1725164040)**
 
+## Dataset
+The dataset used in this dashboard is sourced from Maven Analytics. It contains information on consumer complaints related to various financial products and services provided by Bank of America.
+
+## Key Insights
+**Complaint Trends:** The number of complaints has fluctuated over the years, with a noticeable spike in recent years.
+**Product Analysis:** The most complained-about products are savings/checking accounts, credit cards, credit reporting and mortgage services.
+**Geographical Distribution:** Certain states show higher concentrations of complaints, indicating potential regional issues.
+
+## Tools & Technologies
+**Power BI:** Used for data visualization and dashboard creation.
 
