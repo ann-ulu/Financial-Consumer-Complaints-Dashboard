@@ -14,8 +14,11 @@ The dashboard includes the following key features:
 
 ## Screenshots
 
-### page 1
+### Page 1
 <img src="Dashboard Screenshots/page 1.PNG">
 
-### page 1 with interaction
+### Page 1 with interaction
 <img src="Dashboard Screenshots/page 1 with slicer.PNG">
+
+### Page 2
+<img src="Dashboard Screenshots/page 2.PNG">
